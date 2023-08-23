@@ -1,0 +1,112 @@
+h1,
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+header {
+    background-color: aquamarine;
+    padding: 4px 0;
+    text-align: center;
+}
+
+.main {
+    background-image: url('img4.jpg');
+    background-size: cover;
+
+}
+
+.infoContainer {
+    height: 50vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.img3 {
+    border-radius: 50%;
+    box-shadow: 3px 3px 5px red;
+}
+
+#imgmov {
+    display: flex;
+    align-items: center;
+}
+
+.img4 {
+    border-radius: 40%;
+    box-shadow: 3px 3px 5px gold;
+}
+
+.hello {
+    font-size: 80px;
+    font-family: 'Source Code Pro', monospace;
+    color: white;
+}
+
+.name {
+    font-size: 60px;
+    color: brown;
+}
+
+.about {
+    font-size: 40px;
+    color: #FAF1E4;
+}
+
+.Datarate {
+
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.sp {
+    color: #F8DE22;
+    font-weight: 50px;
+}
+
+.Featur-text {
+
+    color: white;
+    font-size: 20px;
+    padding-top: 30px;
+}
+
+.price {
+    background: linear-gradient(to top left, #003300 12%, #003366 100%);
+    color: white;
+}
+
+.pricetxt {
+    font-size: 15px;
+
+}
+
+.pricetxt2 {
+    color: #C23373;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.footer {
+    margin-top: 10px;
+    background: black;
+    color: white;
+    padding: 2rem;
+    ;
+    text-align: center;
+}
+
+.social-media-links i {
+    margin: 1rem;
+    font-size: 2rem;
+}
+
+.footer p {
+    color: brown;
+
+}
